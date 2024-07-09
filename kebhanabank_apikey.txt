@@ -1,4 +1,0 @@
-<!- hanabank API ->
-credential api key
-kebhana-KEY=asmmSKhNl2qG4pVg58vLuRjrPRoBR5yp
-kebhana-KEY2=skaxhLKsH52sX23asKES242KLsVWpx21
