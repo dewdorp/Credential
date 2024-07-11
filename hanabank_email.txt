@@ -1,11 +1,11 @@
 --------------------!하나은행 이메일 계정 정보!--------------------
-id: king@hanafn.com
+id: king@hanabank.com
 pw: acls~@3
-id: appletee@hanafn.com
+id: appletee@hanabank.com
 pw: kaaa3!!
-id: buttercookie@hanafn.com
+id: buttercookie@hanabank.com
 pw: 1234
-id: qwer1234@hanafn.com
+id: qwer1234@hanabank.com
 pw: zxcv123
-id: byebye@hanafn.com
+id: byebye@hanabank.com
 pw: ucx@#$
